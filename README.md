@@ -13,7 +13,6 @@
 <a href="https://linkedin.com/in/ayush-jayatkar" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
----
 
 ### 🛠 Languages & Tools I Work With  
 <p align="left">
@@ -43,11 +42,5 @@
 
 ---
 
-### 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-jayatkar&theme=react-dark" alt="Contribution Graph"/>
-</p>
-
----
 
 ✨ *Always curious to explore, build, and share knowledge!* ✨
