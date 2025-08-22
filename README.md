@@ -11,7 +11,6 @@
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://linkedin.com/in/ayush-jayatkar)
-[![Gmail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:ayushjayatkar@gmail.com)
 
 ---
 
