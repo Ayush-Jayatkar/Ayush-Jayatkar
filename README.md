@@ -10,12 +10,8 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-<a href="https://linkedin.com/in/ayush-jayatkar" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:ayushjayatkar@gmail.com" target="blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>](https://linkedin.com/in/ayush-jayatkar)  
+[<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40"/>](mailto:ayushjayatkar@gmail.com)
 </p>
 
 ---
@@ -31,6 +27,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
 ---
