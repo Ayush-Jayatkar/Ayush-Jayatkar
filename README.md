@@ -10,8 +10,9 @@
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://linkedin.com/in/ayush-jayatkar)
-
+<a href="https://linkedin.com/in/ayush-jayatkar" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
 ---
 
 ### 🛠 Languages & Tools I Work With  
