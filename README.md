@@ -1,46 +1,56 @@
-<h1 align="center">Hi, I'm Ayush Jayatkar</h1>
+# Ayush Jayatkar
 
+**Information Technology Student | Full-Stack Development | Cybersecurity**
 
----
-
-### 👨‍💻 About Me    
-- 🎓 T.Y. B.Tech Information Technology | PCCoE, Pune
-- 💡 Passionate about **Cybersecurity • AI/ML • Full-Stack Dev**              
----
-
-## 🌐 Connect with Me  
-
-<a href="https://linkedin.com/in/ayush-jayatkar" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
-
-### 🛠 Languages & Tools I Work With  
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
+B.Tech Information Technology — PCCoE, Pune
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-jayatkar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-jayatkar&theme=tokyonight" alt="GitHub Streak" />
-</p>
+## About
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-jayatkar&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+Information Technology student with hands-on experience in full-stack development, backend systems, REST APIs, and databases. I enjoy building practical software solutions and exploring technologies across software engineering and cybersecurity.
+
+My experience includes working on real-world projects, hackathons, and collaborative development, with a focus on continuously improving my technical and problem-solving skills.
 
 ---
 
+## Technical Skills
 
-✨ *Always curious to explore, build, and share knowledge!* ✨
+**Languages:** Java • Python • JavaScript • C
+**Frontend:** React • HTML5 • CSS3
+**Backend:** Spring Boot • Flask • FastAPI
+**Databases:** PostgreSQL • MySQL • MongoDB
+**Tools:** Git • GitHub • Maven • Postman • VS Code
+**Concepts:** REST APIs • JWT Authentication • OOP • JPA • Microservices • API Testing • Cybersecurity Fundamentals
+
+---
+
+## Projects
+
+### CityVoice — Civic Issue Reporting Platform
+
+Full-stack civic reporting platform that enables citizens to report and track issues such as potholes, garbage spots, and damaged infrastructure. Built with image-based reporting, complaint tracking, and REST API integration.
+
+**Tech:** React • Flask • PostgreSQL • Cloudinary • REST APIs
+
+### TransitIQ — Smart Transit Solution
+
+Technology-driven public transportation solution designed to improve the accessibility and usability of transit information through a practical digital platform.
+
+### VHMS — Vehicle Health Monitoring System
+
+Backend validation system built using FastAPI, SQLAlchemy, and JWT authentication, with structured API validation and automated testing.
+
+**Tech:** FastAPI • SQLAlchemy • JWT • Python • Pytest
+
+---
+
+## Areas of Interest
+
+**Software Engineering • Full-Stack Development • Backend Development • Cybersecurity • Cloud Technologies**
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/ayush-jayatkar) • [GitHub](https://github.com/Ayush-Jayatkar)
